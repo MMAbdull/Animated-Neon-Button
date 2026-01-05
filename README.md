@@ -95,4 +95,4 @@ This project is intentionally minimal to focus on **visual CSS techniques** rath
 
 ## 👨‍💻 Author
 
-Created by **Mohammad**
+Created by **Mohammad Abdullah**
